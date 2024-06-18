@@ -116,7 +116,7 @@ function highestScore(){
 
 
 // h2 heading change in mobile view
-const mediaQuery = window.matchMedia('(max-width: 750px)');
+const mediaQuery = window.matchMedia('(max-width: 450px)');
 
 // Define a function to handle the change
 function handleMediaQueryChange(event) {
